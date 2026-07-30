@@ -8,6 +8,32 @@ Os scripts são responsáveis pela criação do banco de dados, organização do
 
 ---
 
+## Tecnologias da camada SQL
+
+- Microsoft SQL Server
+- T-SQL
+- SQL Server Management Studio
+- SQL Server Integration Services
+- Modelagem dimensional
+- Data Warehouse
+
+## Compatibilidade
+
+Os scripts deste projeto foram desenvolvidos para Microsoft SQL Server.
+
+Características utilizadas:
+
+- separação de comandos com `GO`;
+- schemas personalizados;
+- colunas `IDENTITY`;
+- tipos `NVARCHAR`, `DATETIME2` e `DECIMAL`;
+- tratamento de erros com `TRY...CATCH`;
+- funções e procedures em T-SQL;
+- consultas às views de sistema `sys.schemas`, `sys.tables` e `sys.columns`.
+
+Os scripts não foram preparados para execução direta em PostgreSQL, Oracle, MySQL, porém, podem ser facilmente convertidos.
+
+
 ## 🎯 Objetivo
 
 Construir a camada de banco de dados necessária para suportar o seguinte fluxo:

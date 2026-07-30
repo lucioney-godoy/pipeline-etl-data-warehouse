@@ -123,3 +123,16 @@ pipeline-etl-data-warehouse/
 ├── arquitetura/
 ├── etl/
 └── dashboard/
+```
+
+## Situação
+
+Projeto em desenvolvimento.
+
+## Autor
+
+**Lucioney Godoy**
+
+Engenheiro de Dados | Analista de Dados Sênior
+
+[LinkedIn](https://www.linkedin.com/in/lucioney-godoy)

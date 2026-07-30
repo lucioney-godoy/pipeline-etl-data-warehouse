@@ -1,10 +1,10 @@
-# 🗄️ Scripts SQL — Microsoft SQL Server
+# 🗄️ Camada SQL — DataSalesDW
 
-Esta pasta contém os scripts T-SQL utilizados na construção do projeto **Pipeline ETL para Data Warehouse**.
+Esta pasta contém os scripts T-SQL responsáveis pela construção da camada de banco de dados do projeto **Pipeline ETL para Data Warehouse**.
 
-Todo o projeto foi desenvolvido exclusivamente para **Microsoft SQL Server**, com execução prevista para o **SQL Server Management Studio — SSMS**.
+A solução utiliza **Microsoft SQL Server** como plataforma principal e contempla a criação do banco de dados, organização dos schemas, tabelas de staging, controles de execução, tratamento de registros inválidos, modelo dimensional e consultas analíticas.
 
-Os scripts são responsáveis pela criação do banco de dados, organização dos schemas, preparação das tabelas de staging, implementação do modelo dimensional, controle das execuções, tratamento de registros inválidos e validação das cargas.
+Os scripts foram organizados em uma sequência lógica de execução e documentados para demonstrar práticas utilizadas em projetos corporativos de Engenharia de Dados, ETL e Business Intelligence.
 
 ---
 
@@ -17,22 +17,26 @@ Os scripts são responsáveis pela criação do banco de dados, organização do
 - Modelagem dimensional
 - Data Warehouse
 
-## Compatibilidade
+## 🛠️ Padrão tecnológico
 
-Os scripts deste projeto foram desenvolvidos para Microsoft SQL Server.
+A camada de banco de dados deste projeto utiliza **Microsoft SQL Server** e **T-SQL**, seguindo padrões aplicados em ambientes corporativos de Engenharia de Dados e Business Intelligence.
 
-Características utilizadas:
+### Recursos utilizados
 
-- separação de comandos com `GO`;
-- schemas personalizados;
+- Microsoft SQL Server;
+- SQL Server Management Studio — SSMS;
+- SQL Server Integration Services — SSIS;
+- linguagem T-SQL;
+- schemas para organização das camadas;
+- procedures, views e functions;
 - colunas `IDENTITY`;
-- tipos `NVARCHAR`, `DATETIME2` e `DECIMAL`;
+- tipos `NVARCHAR`, `DATE`, `DATETIME2` e `DECIMAL`;
 - tratamento de erros com `TRY...CATCH`;
-- funções e procedures em T-SQL;
-- consultas às views de sistema `sys.schemas`, `sys.tables` e `sys.columns`.
+- transações para garantir consistência;
+- tabelas de controle, auditoria e rejeição;
+- consultas às views de sistema do SQL Server.
 
-Os scripts não foram preparados para execução direta em PostgreSQL, Oracle, MySQL, porém, podem ser facilmente convertidos.
-
+A solução foi estruturada com foco em organização, rastreabilidade, qualidade dos dados, reexecução segura e facilidade de manutenção.
 
 ## 🎯 Objetivo
 

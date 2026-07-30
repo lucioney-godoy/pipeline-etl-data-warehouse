@@ -1,8 +1,10 @@
-# 🗄️ Scripts SQL — DataSalesDW
+# 🗄️ Scripts SQL — Microsoft SQL Server
 
-Esta pasta contém os scripts SQL utilizados na construção do projeto **Pipeline ETL para Data Warehouse**.
+Esta pasta contém os scripts T-SQL utilizados na construção do projeto **Pipeline ETL para Data Warehouse**.
 
-Os arquivos são responsáveis pela criação do banco de dados, organização dos schemas, preparação das tabelas de staging, implementação do modelo dimensional, controle das execuções, tratamento de registros inválidos e validação das cargas.
+Todo o projeto foi desenvolvido exclusivamente para **Microsoft SQL Server**, com execução prevista pelo **SQL Server Management Studio — SSMS**.
+
+Os scripts são responsáveis pela criação do banco de dados, organização dos schemas, preparação das tabelas de staging, implementação do modelo dimensional, controle das execuções, tratamento de registros inválidos e validação das cargas.
 
 ---
 

@@ -1,31 +1,51 @@
 # Pipeline ETL para Data Warehouse
 
-## Sobre o projeto
+## Visão geral
 
-Este projeto demonstra a construção de um processo de integração de dados, desde a extração das fontes até a disponibilização das informações para análise.
+Este projeto demonstra a construção de uma solução completa de Engenharia de Dados, desde a ingestão de arquivos até a disponibilização das informações para análise no Power BI.
 
-O projeto utiliza dados fictícios e representa uma solução semelhante às implementadas em ambientes corporativos.
+O cenário representa uma empresa fictícia do setor comercial, com dados de clientes, produtos, vendedores, metas e vendas.
 
-## Objetivos
+Todos os dados utilizados neste projeto serão fictícios e criados exclusivamente para fins de estudo e demonstração profissional.
 
-- Extrair dados de diferentes fontes.
-- Armazenar os dados em uma área de staging.
-- Validar registros obrigatórios.
-- Identificar dados duplicados ou inválidos.
-- Construir dimensões e tabela fato.
-- Registrar a execução das cargas.
-- Disponibilizar dados para análise no Power BI.
+## Objetivo
 
-## Arquitetura
+Construir um pipeline ETL capaz de:
 
-O processo está organizado nas seguintes etapas:
+- extrair informações de arquivos CSV;
+- carregar os dados em uma área de staging;
+- validar campos obrigatórios;
+- identificar registros duplicados;
+- separar registros válidos e inválidos;
+- criar dimensões e tabela fato;
+- registrar a execução das cargas;
+- disponibilizar os dados para análise no Power BI.
 
-1. Fontes de dados.
-2. Área de staging.
-3. Validação e tratamento.
-4. Data Warehouse.
-5. Modelo semântico.
-6. Dashboard.
+## Problema de negócio
+
+A empresa fictícia DataSales Comércio possui informações comerciais armazenadas em diferentes arquivos.
+
+A ausência de uma estrutura centralizada dificulta:
+
+- a consolidação das vendas;
+- a comparação entre metas e resultados;
+- a identificação dos produtos mais vendidos;
+- a análise do desempenho dos vendedores;
+- a validação da qualidade dos dados;
+- a geração de relatórios confiáveis.
+
+## Solução proposta
+
+A solução utilizará uma arquitetura composta pelas seguintes etapas:
+
+1. Recebimento dos arquivos de origem.
+2. Carregamento dos dados na área de staging.
+3. Aplicação das regras de qualidade.
+4. Registro dos dados inválidos.
+5. Carga das dimensões.
+6. Carga da tabela fato.
+7. Reconciliação dos dados.
+8. Disponibilização para análise no Power BI.
 
 ## Tecnologias
 
@@ -36,15 +56,70 @@ O processo está organizado nas seguintes etapas:
 - Data Warehouse
 - Power BI
 - DAX
+- Git e GitHub
 
-## Estrutura do projeto
+## Modelo dimensional planejado
 
-- `sql`: scripts de criação e carga das tabelas.
-- `dados`: arquivos fictícios utilizados no projeto.
-- `documentacao`: regras de negócio e dicionário de dados.
-- `arquitetura`: desenhos da arquitetura e do modelo dimensional.
-- `dashboard`: imagens dos indicadores desenvolvidos.
+### Dimensões
 
-## Situação do projeto
+- Dimensão Cliente
+- Dimensão Produto
+- Dimensão Vendedor
+- Dimensão Calendário
+- Dimensão Unidade
 
-Em desenvolvimento.
+### Tabela fato
+
+- Fato Vendas
+
+## Indicadores planejados
+
+- Receita total
+- Quantidade vendida
+- Ticket médio
+- Total de clientes
+- Vendas por período
+- Vendas por produto
+- Vendas por vendedor
+- Vendas por unidade
+- Comparação entre meta e realizado
+- Percentual de atingimento da meta
+
+## Qualidade de dados
+
+O pipeline deverá validar:
+
+- campos obrigatórios sem preenchimento;
+- códigos de clientes inexistentes;
+- códigos de produtos inexistentes;
+- valores negativos;
+- quantidades inválidas;
+- registros duplicados;
+- datas inválidas;
+- registros já processados.
+
+## Monitoramento
+
+Serão criados controles para registrar:
+
+- nome do processo;
+- data e hora de início;
+- data e hora de término;
+- quantidade de registros lidos;
+- quantidade de registros válidos;
+- quantidade de registros inválidos;
+- situação da execução;
+- mensagem de erro.
+
+## Estrutura planejada
+
+```text
+pipeline-etl-data-warehouse/
+│
+├── README.md
+├── dados/
+├── sql/
+├── documentacao/
+├── arquitetura/
+├── etl/
+└── dashboard/

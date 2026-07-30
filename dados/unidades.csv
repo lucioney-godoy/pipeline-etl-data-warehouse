@@ -1,0 +1,31 @@
+﻿id_unidade,nome_unidade,cidade,estado,regiao,status_unidade
+1,Unidade Brasília,Brasília,DF,Centro-Oeste,Ativa
+2,Unidade Taguatinga,Taguatinga,DF,Centro-Oeste,Inativa
+3,Unidade Goiânia,Goiânia,GO,Centro-Oeste,Ativa
+4,Unidade Anápolis,Anápolis,GO,Centro-Oeste,Ativa
+5,Unidade Cuiabá,Cuiabá,MT,Centro-Oeste,Ativa
+6,Unidade Campo Grande,Campo Grande,MS,Centro-Oeste,Ativa
+7,Unidade São Paulo,São Paulo,SP,Sudeste,Ativa
+8,Unidade Campinas,Campinas,SP,Sudeste,Ativa
+9,Unidade Santos,Santos,SP,Sudeste,Ativa
+10,Unidade Ribeirão Preto,Ribeirão Preto,SP,Sudeste,Ativa
+11,Unidade Belo Horizonte,Belo Horizonte,MG,Sudeste,Ativa
+12,Unidade Uberlândia,Uberlândia,MG,Sudeste,Ativa
+13,Unidade Rio de Janeiro,Rio de Janeiro,RJ,Sudeste,Ativa
+14,Unidade Niterói,Niterói,RJ,Sudeste,Ativa
+15,Unidade Vitória,Vitória,ES,Sudeste,Ativa
+16,Unidade Curitiba,Curitiba,PR,Sul,Ativa
+17,Unidade Londrina,Londrina,PR,Sul,Ativa
+18,Unidade Florianópolis,Florianópolis,SC,Sul,Ativa
+19,Unidade Joinville,Joinville,SC,Sul,Ativa
+20,Unidade Porto Alegre,Porto Alegre,RS,Sul,Ativa
+21,Unidade Salvador,Salvador,BA,Nordeste,Ativa
+22,Unidade Recife,Recife,PE,Nordeste,Ativa
+23,Unidade Fortaleza,Fortaleza,CE,Nordeste,Ativa
+24,Unidade Natal,Natal,RN,Nordeste,Ativa
+25,Unidade João Pessoa,João Pessoa,PB,Nordeste,Ativa
+26,Unidade São Luís,São Luís,MA,Nordeste,Ativa
+27,Unidade Belém,Belém,PA,Norte,Ativa
+28,Unidade Manaus,Manaus,AM,Norte,Ativa
+29,Unidade Porto Velho,Porto Velho,RO,Norte,Ativa
+30,Unidade Palmas,Palmas,TO,Norte,Ativa

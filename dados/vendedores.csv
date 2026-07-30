@@ -1,0 +1,201 @@
+﻿id_vendedor,nome_vendedor,id_unidade,cargo,data_admissao,status_vendedor
+1,Helena Esteves,9,Vendedor Pleno,2021-12-16,Ativo
+2,Helena Ferreira,9,Vendedor Júnior,2024-09-27,Ativo
+3,Eduardo Santos,12,Executivo de Contas,2025-06-12,Ativo
+4,Fernanda Oliveira,11,Executivo de Contas,2022-05-02,Ativo
+5,Yasmin Henrique,27,Vendedor Sênior,2023-12-08,Ativo
+6,Carlos Araújo,20,Executivo de Contas,2025-09-30,Ativo
+7,Débora Araújo,7,Executivo de Contas,2023-08-13,Ativo
+8,Vinícius Carvalho,29,Consultor Comercial,2021-03-08,Ativo
+9,Rafael Pereira,3,Executivo de Contas,2018-02-02,Ativo
+10,Gabriel Moraes,8,Vendedor Pleno,2023-09-03,Ativo
+11,Helena Santos,23,Vendedor Júnior,2024-08-18,Ativo
+12,Ana Lima,15,Vendedor Sênior,2025-05-10,Ativo
+13,Henrique Rocha,11,Executivo de Contas,2020-02-29,Ativo
+14,Wagner Lima,14,Vendedor Pleno,2023-01-25,Ativo
+15,Vanessa Carvalho,4,Vendedor Sênior,2019-01-26,Ativo
+16,Gabriel Teixeira,1,Vendedor Júnior,2021-12-05,Ativo
+17,Gabriel Esteves,4,Vendedor Pleno,2025-07-22,Ativo
+18,Wagner Dias,24,Vendedor Sênior,2019-12-11,Ativo
+19,Ana Carvalho,7,Vendedor Sênior,2025-12-06,Inativo
+20,Bianca Vieira,22,Executivo de Contas,2019-04-13,Ativo
+21,Yasmin Pereira,9,Vendedor Pleno,2019-01-13,Ativo
+22,Thiago Carvalho,23,Vendedor Pleno,2020-07-28,Ativo
+23,Priscila Nascimento,27,Vendedor Júnior,2021-09-29,Ativo
+24,Wagner Costa,23,Vendedor Pleno,2020-08-26,Ativo
+25,Débora Freitas,10,Vendedor Júnior,2025-04-06,Ativo
+26,Vanessa Santos,28,Vendedor Sênior,2024-04-17,Ativo
+27,Larissa Santos,27,Vendedor Pleno,2023-08-10,Ativo
+28,Fábio Oliveira,12,Vendedor Júnior,2019-03-26,Ativo
+29,Juliana Martins,6,Executivo de Contas,2020-05-29,Ativo
+30,Marcos Gomes,5,Vendedor Sênior,2018-12-08,Ativo
+31,Nelson Pereira,7,Vendedor Pleno,2019-05-10,Ativo
+32,Eduardo Duarte,12,Vendedor Júnior,2019-06-23,Ativo
+33,Aline Ribeiro,14,Vendedor Pleno,2021-09-10,Ativo
+34,Cristiano Almeida,1,Executivo de Contas,2021-05-28,Ativo
+35,Igor Dias,15,Vendedor Júnior,2020-05-15,Ativo
+36,Helena Duarte,5,Executivo de Contas,2025-12-10,Ativo
+37,Igor Castro,27,Vendedor Pleno,2022-09-13,Inativo
+38,Natália Almeida,18,Executivo de Contas,2018-01-05,Ativo
+39,André Gomes,19,Vendedor Pleno,2024-05-21,Ativo
+40,Marcos Esteves,23,Vendedor Pleno,2020-12-29,Ativo
+41,Patrícia Vieira,25,Vendedor Pleno,2025-08-08,Inativo
+42,Aline Castro,28,Vendedor Júnior,2019-06-22,Ativo
+43,Débora Souza,13,Vendedor Sênior,2025-01-22,Ativo
+44,Karina Castro,22,Vendedor Sênior,2021-09-28,Ativo
+45,Carlos Queiroz,30,Executivo de Contas,2023-04-02,Ativo
+46,Marcos Pereira,12,Executivo de Contas,2025-10-17,Ativo
+47,João Moraes,30,Vendedor Júnior,2021-05-06,Ativo
+48,Daniela Oliveira,12,Vendedor Pleno,2019-04-15,Ativo
+49,André Ribeiro,3,Consultor Comercial,2022-01-09,Ativo
+50,Gabriel Freitas,11,Vendedor Pleno,2022-08-19,Ativo
+51,Kleber Araújo,25,Vendedor Pleno,2020-03-05,Inativo
+52,Larissa Moraes,16,Vendedor Pleno,2018-06-07,Ativo
+53,Débora Almeida,13,Vendedor Júnior,2022-03-20,Ativo
+54,Ana Pereira,15,Vendedor Júnior,2024-04-18,Ativo
+55,Cristiano Araújo,6,Vendedor Júnior,2018-11-05,Ativo
+56,Eduardo Nascimento,29,Executivo de Contas,2022-08-06,Ativo
+57,Bruno Rocha,13,Executivo de Contas,2020-03-20,Ativo
+58,Helena Martins,25,Vendedor Sênior,2019-03-31,Ativo
+59,Gisele Esteves,17,Vendedor Pleno,2020-03-14,Ativo
+60,Vanessa Pereira,8,Vendedor Pleno,2019-08-08,Ativo
+61,Carlos Almeida,28,Executivo de Contas,2021-08-11,Inativo
+62,Aline Pereira,21,Vendedor Pleno,2024-04-22,Ativo
+63,Aline Esteves,16,Executivo de Contas,2024-09-15,Ativo
+64,Cristiano Freitas,29,Vendedor Pleno,2022-06-09,Ativo
+65,Débora Esteves,19,Executivo de Contas,2026-05-03,Ativo
+66,Igor Souza,23,Consultor Comercial,2025-11-27,Ativo
+67,Wagner Ferreira,13,Vendedor Júnior,2020-02-28,Ativo
+68,Priscila Vieira,12,Vendedor Sênior,2024-12-21,Inativo
+69,Juliana Moraes,6,Vendedor Júnior,2023-10-18,Ativo
+70,João Oliveira,3,Vendedor Sênior,2023-04-29,Ativo
+71,Thiago Henrique,4,Vendedor Sênior,2023-12-22,Ativo
+72,Carlos Ribeiro,27,Vendedor Júnior,2021-07-18,Ativo
+73,Renato Lima,1,Vendedor Pleno,2021-09-19,Ativo
+74,Ana Santos,2,Vendedor Pleno,2024-02-14,Ativo
+75,André Esteves,30,Vendedor Pleno,2024-09-27,Ativo
+76,Daniela Correia,3,Executivo de Contas,2019-12-12,Ativo
+77,Débora Henrique,2,Consultor Comercial,2022-04-24,Ativo
+78,Fábio Correia,29,Vendedor Pleno,2018-09-29,Ativo
+79,Daniela Moraes,19,Vendedor Pleno,2022-12-15,Ativo
+80,Marcos Moraes,13,Consultor Comercial,2021-08-01,Ativo
+81,João Correia,23,Vendedor Júnior,2020-04-02,Ativo
+82,Isabela Dias,11,Consultor Comercial,2018-09-19,Ativo
+83,Karina Almeida,13,Vendedor Pleno,2021-10-31,Ativo
+84,Mônica Dias,1,Vendedor Júnior,2022-04-18,Ativo
+85,Renato Esteves,28,Vendedor Pleno,2024-06-07,Ativo
+86,Mônica Castro,26,Vendedor Pleno,2019-08-23,Ativo
+87,Gisele Dias,25,Vendedor Sênior,2023-02-01,Ativo
+88,Larissa Ribeiro,17,Executivo de Contas,2024-08-31,Ativo
+89,Eduardo Dias,24,Vendedor Júnior,2021-04-19,Inativo
+90,Nelson Moraes,13,Vendedor Pleno,2021-06-16,Ativo
+91,Otávio Nascimento,12,Vendedor Júnior,2018-08-02,Ativo
+92,Priscila Henrique,12,Vendedor Pleno,2020-09-22,Ativo
+93,Aline Araújo,30,Vendedor Sênior,2019-06-21,Ativo
+94,Daniela Gomes,19,Consultor Comercial,2023-01-26,Ativo
+95,Igor Moraes,14,Vendedor Sênior,2019-01-09,Ativo
+96,Fábio Vieira,29,Vendedor Sênior,2022-01-12,Ativo
+97,Débora Ribeiro,24,Vendedor Pleno,2018-03-16,Ativo
+98,Priscila Araújo,30,Vendedor Pleno,2018-10-08,Ativo
+99,Renato Henrique,30,Vendedor Pleno,2018-07-08,Ativo
+100,Simone Correia,16,Vendedor Pleno,2026-04-10,Ativo
+101,Fernanda Almeida,26,Executivo de Contas,2025-03-10,Ativo
+102,Ana Almeida,6,Vendedor Sênior,2018-06-30,Ativo
+103,Otávio Queiroz,20,Executivo de Contas,2025-12-20,Inativo
+104,Larissa Machado,1,Vendedor Júnior,2025-01-18,Ativo
+105,Gabriel Ferreira,18,Vendedor Sênior,2018-05-05,Ativo
+106,Larissa Teixeira,6,Executivo de Contas,2019-04-21,Ativo
+107,Henrique Machado,18,Vendedor Júnior,2019-06-18,Ativo
+108,Bruno Teixeira,7,Vendedor Pleno,2020-08-18,Ativo
+109,Igor Almeida,12,Vendedor Sênior,2020-08-09,Ativo
+110,Vinícius Ferreira,25,Consultor Comercial,2019-06-08,Ativo
+111,Simone Carvalho,8,Vendedor Júnior,2025-02-13,Ativo
+112,Cristiano Oliveira,12,Vendedor Pleno,2021-06-06,Ativo
+113,Gisele Souza,30,Vendedor Júnior,2025-05-29,Ativo
+114,Rafael Lima,8,Vendedor Pleno,2024-07-15,Ativo
+115,Karina Nascimento,10,Vendedor Sênior,2026-04-01,Inativo
+116,Fábio Martins,5,Vendedor Sênior,2020-02-26,Ativo
+117,Otávio Lima,23,Executivo de Contas,2021-03-10,Ativo
+118,Carlos Cardoso,17,Executivo de Contas,2024-06-14,Ativo
+119,Isabela Duarte,26,Vendedor Pleno,2022-11-05,Ativo
+120,Nelson Nascimento,4,Vendedor Júnior,2018-06-20,Inativo
+121,Aline Gomes,3,Vendedor Pleno,2025-09-29,Ativo
+122,Sabrina Ribeiro,12,Vendedor Júnior,2026-01-25,Ativo
+123,Isabela Correia,29,Vendedor Pleno,2025-03-03,Ativo
+124,Fábio Ferreira,10,Consultor Comercial,2022-08-24,Ativo
+125,Larissa Barbosa,12,Vendedor Pleno,2021-06-15,Ativo
+126,Juliana Rocha,12,Vendedor Pleno,2023-12-30,Ativo
+127,Daniela Vieira,7,Vendedor Júnior,2023-07-04,Inativo
+128,Bianca Oliveira,10,Executivo de Contas,2020-10-15,Ativo
+129,Isabela Lima,29,Vendedor Pleno,2019-02-26,Ativo
+130,Sabrina Souza,22,Executivo de Contas,2022-12-18,Ativo
+131,Sabrina Teixeira,10,Vendedor Pleno,2026-05-20,Ativo
+132,Henrique Correia,19,Consultor Comercial,2022-05-12,Ativo
+133,André Vieira,8,Vendedor Pleno,2024-05-20,Ativo
+134,Bruno Pereira,1,Vendedor Pleno,2022-05-22,Ativo
+135,Marcos Dias,26,Vendedor Pleno,2024-01-02,Ativo
+136,Eduardo Martins,6,Executivo de Contas,2022-01-14,Ativo
+137,Yasmin Araújo,10,Vendedor Pleno,2019-09-23,Ativo
+138,Carlos Vieira,26,Vendedor Pleno,2023-02-14,Inativo
+139,Igor Freitas,9,Vendedor Sênior,2024-03-17,Ativo
+140,Carlos Dias,21,Vendedor Sênior,2023-11-11,Ativo
+141,Bruno Freitas,3,Vendedor Júnior,2018-05-31,Ativo
+142,João Pereira,19,Vendedor Pleno,2022-11-08,Ativo
+143,Simone Cardoso,2,Vendedor Pleno,2025-11-23,Ativo
+144,Juliana Souza,5,Vendedor Sênior,2021-12-24,Ativo
+145,Renato Machado,29,Vendedor Júnior,2019-12-18,Ativo
+146,Karina Lima,11,Vendedor Sênior,2026-03-01,Ativo
+147,Bruno Santos,12,Executivo de Contas,2023-04-26,Ativo
+148,Fernanda Queiroz,4,Vendedor Júnior,2022-04-14,Ativo
+149,Aline Mendes,19,Vendedor Sênior,2019-07-12,Ativo
+150,Fernanda Martins,21,Executivo de Contas,2020-03-05,Ativo
+151,Wagner Gomes,29,Consultor Comercial,2019-02-20,Inativo
+152,Gisele Martins,2,Vendedor Sênior,2021-12-28,Ativo
+153,Eduardo Barbosa,18,Vendedor Júnior,2019-02-21,Ativo
+154,Igor Rocha,4,Consultor Comercial,2019-09-22,Ativo
+155,Vinícius Esteves,1,Executivo de Contas,2021-11-03,Ativo
+156,Leonardo Araújo,14,Vendedor Pleno,2023-06-26,Ativo
+157,Thiago Ferreira,10,Vendedor Sênior,2024-03-25,Ativo
+158,André Nascimento,25,Vendedor Pleno,2020-03-20,Ativo
+159,Sabrina Duarte,13,Vendedor Pleno,2022-05-01,Ativo
+160,Natália Duarte,17,Vendedor Júnior,2024-09-30,Ativo
+161,Gisele Correia,7,Vendedor Júnior,2026-07-16,Ativo
+162,Yasmin Martins,17,Vendedor Sênior,2025-09-02,Ativo
+163,Natália Teixeira,17,Vendedor Pleno,2023-05-29,Ativo
+164,Kleber Vieira,16,Vendedor Sênior,2025-07-09,Ativo
+165,Yasmin Oliveira,1,Vendedor Pleno,2019-04-01,Ativo
+166,Débora Queiroz,10,Vendedor Pleno,2022-07-26,Ativo
+167,Aline Lima,26,Vendedor Júnior,2025-12-27,Ativo
+168,Gisele Castro,30,Vendedor Pleno,2024-08-29,Ativo
+169,Otávio Freitas,15,Vendedor Sênior,2025-02-24,Ativo
+170,Eduardo Henrique,2,Vendedor Pleno,2025-08-07,Ativo
+171,Sabrina Correia,17,Consultor Comercial,2021-09-16,Ativo
+172,Kleber Machado,19,Vendedor Pleno,2019-07-12,Ativo
+173,Eduardo Rocha,13,Consultor Comercial,2026-01-29,Ativo
+174,Daniela Castro,11,Vendedor Júnior,2022-09-30,Ativo
+175,Isabela Esteves,20,Executivo de Contas,2024-06-19,Ativo
+176,João Nascimento,24,Vendedor Pleno,2026-07-12,Ativo
+177,Bianca Dias,16,Vendedor Sênior,2020-01-09,Inativo
+178,Bruno Queiroz,4,Executivo de Contas,2022-04-05,Ativo
+179,Isabela Gomes,26,Executivo de Contas,2023-06-26,Ativo
+180,André Pereira,12,Vendedor Pleno,2021-06-20,Ativo
+181,Daniela Mendes,6,Vendedor Júnior,2021-12-10,Ativo
+182,Leonardo Ferreira,14,Executivo de Contas,2024-07-23,Inativo
+183,Mônica Nascimento,22,Vendedor Pleno,2018-05-20,Ativo
+184,Carlos Rocha,15,Vendedor Júnior,2022-03-24,Ativo
+185,Wagner Santos,6,Vendedor Sênior,2022-10-14,Ativo
+186,Wagner Vieira,11,Executivo de Contas,2026-03-05,Ativo
+187,Natália Castro,2,Vendedor Pleno,2019-07-29,Ativo
+188,Bruno Martins,12,Vendedor Júnior,2021-04-23,Ativo
+189,Isabela Oliveira,21,Executivo de Contas,2026-04-18,Ativo
+190,Mônica Costa,20,Vendedor Júnior,2024-09-24,Ativo
+191,João Castro,18,Consultor Comercial,2024-03-05,Ativo
+192,Nelson Freitas,28,Vendedor Pleno,2025-05-17,Ativo
+193,Bianca Almeida,5,Vendedor Júnior,2022-07-16,Ativo
+194,Wagner Carvalho,5,Consultor Comercial,2020-10-27,Inativo
+195,Larissa Nascimento,14,Vendedor Júnior,2019-06-09,Ativo
+196,Vanessa Lima,6,Executivo de Contas,2020-12-02,Ativo
+197,João Vieira,11,Vendedor Sênior,2025-07-02,Ativo
+198,Mônica Vieira,3,Vendedor Júnior,2018-02-25,Ativo
+199,Ana Queiroz,19,Vendedor Pleno,2026-06-15,Ativo
+200,Karina Gomes,24,Vendedor Pleno,2024-02-04,Ativo

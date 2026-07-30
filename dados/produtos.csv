@@ -1,0 +1,301 @@
+﻿id_produto,nome_produto,categoria,subcategoria,marca,valor_unitario,status_produto
+1,Notebook EvoTech Business-01,Informática,Notebook,EvoTech,9167.54,Ativo
+2,Notebook PrimeWare Pro-02,Informática,Notebook,PrimeWare,7556.08,Ativo
+3,Notebook Sigma Pro-03,Informática,Notebook,Sigma,3457.53,Ativo
+4,Notebook Sigma Business-04,Informática,Notebook,Sigma,5616.18,Ativo
+5,Notebook Vertex Max-05,Informática,Notebook,Vertex,7723.61,Inativo
+6,Notebook Vision Max-06,Informática,Notebook,Vision,5144.44,Ativo
+7,Notebook NovaData Smart-07,Informática,Notebook,NovaData,2676.88,Ativo
+8,Notebook Vision Office-08,Informática,Notebook,Vision,9273.69,Ativo
+9,Notebook DataPro Smart-09,Informática,Notebook,DataPro,5749.91,Ativo
+10,Notebook AlphaTech Plus-10,Informática,Notebook,AlphaTech,2917.72,Ativo
+11,Desktop PrimeWare Plus-01,Informática,Desktop,PrimeWare,3265.43,Ativo
+12,Desktop Orion Pro-02,Informática,Desktop,Orion,2909.52,Ativo
+13,Desktop Sigma Smart-03,Informática,Desktop,Sigma,6133.61,Ativo
+14,Desktop Orion Plus-04,Informática,Desktop,Orion,6552.23,Ativo
+15,Desktop Quantum Pro-05,Informática,Desktop,Quantum,3926.88,Ativo
+16,Desktop Quantum Plus-06,Informática,Desktop,Quantum,3146.65,Ativo
+17,Desktop Vertex Office-07,Informática,Desktop,Vertex,2067.24,Ativo
+18,Desktop Sigma Smart-08,Informática,Desktop,Sigma,3400.18,Ativo
+19,Desktop Vision Office-09,Informática,Desktop,Vision,4803.32,Ativo
+20,Desktop EvoTech Plus-10,Informática,Desktop,EvoTech,4424.24,Ativo
+21,Monitor Nexus Office-01,Informática,Monitor,Nexus,886.30,Ativo
+22,Monitor AlphaTech Office-02,Informática,Monitor,AlphaTech,2271.52,Ativo
+23,Monitor Vision Office-03,Informática,Monitor,Vision,2998.54,Inativo
+24,Monitor Vertex Pro-04,Informática,Monitor,Vertex,2619.35,Inativo
+25,Monitor EvoTech Max-05,Informática,Monitor,EvoTech,2196.73,Ativo
+26,Monitor AlphaTech Plus-06,Informática,Monitor,AlphaTech,1777.94,Ativo
+27,Monitor NovaData Office-07,Informática,Monitor,NovaData,1775.61,Ativo
+28,Monitor Vision Smart-08,Informática,Monitor,Vision,1461.30,Ativo
+29,Monitor Orion Office-09,Informática,Monitor,Orion,2199.49,Ativo
+30,Monitor EvoTech Pro-10,Informática,Monitor,EvoTech,1947.97,Ativo
+31,Impressora NovaData Business-01,Informática,Impressora,NovaData,768.38,Ativo
+32,Impressora Nexus Plus-02,Informática,Impressora,Nexus,1029.07,Ativo
+33,Impressora Quantum Smart-03,Informática,Impressora,Quantum,1865.74,Ativo
+34,Impressora Integra Pro-04,Informática,Impressora,Integra,3278.98,Ativo
+35,Impressora DataPro Smart-05,Informática,Impressora,DataPro,721.83,Ativo
+36,Impressora AlphaTech Smart-06,Informática,Impressora,AlphaTech,4174.41,Ativo
+37,Impressora DataPro Business-07,Informática,Impressora,DataPro,1099.63,Ativo
+38,Impressora Integra Office-08,Informática,Impressora,Integra,1605.03,Ativo
+39,Impressora EvoTech Max-09,Informática,Impressora,EvoTech,1731.96,Ativo
+40,Impressora NovaData Max-10,Informática,Impressora,NovaData,1027.85,Ativo
+41,Tablet Integra Pro-01,Informática,Tablet,Integra,1141.47,Ativo
+42,Tablet Integra Business-02,Informática,Tablet,Integra,3978.57,Ativo
+43,Tablet Vision Pro-03,Informática,Tablet,Vision,5051.63,Ativo
+44,Tablet Vision Office-04,Informática,Tablet,Vision,5171.38,Ativo
+45,Tablet DataPro Smart-05,Informática,Tablet,DataPro,2202.75,Ativo
+46,Tablet Vision Business-06,Informática,Tablet,Vision,1469.09,Ativo
+47,Tablet Nexus Business-07,Informática,Tablet,Nexus,3049.48,Ativo
+48,Tablet Integra Plus-08,Informática,Tablet,Integra,1625.39,Ativo
+49,Tablet Integra Max-09,Informática,Tablet,Integra,1536.83,Ativo
+50,Tablet Vertex Max-10,Informática,Tablet,Vertex,2870.49,Ativo
+51,Teclado PrimeWare Business-01,Acessórios,Teclado,PrimeWare,123.98,Ativo
+52,Teclado Vertex Office-02,Acessórios,Teclado,Vertex,187.51,Ativo
+53,Teclado AlphaTech Business-03,Acessórios,Teclado,AlphaTech,557.41,Ativo
+54,Teclado PrimeWare Office-04,Acessórios,Teclado,PrimeWare,146.22,Ativo
+55,Teclado Sigma Smart-05,Acessórios,Teclado,Sigma,306.84,Ativo
+56,Teclado EvoTech Plus-06,Acessórios,Teclado,EvoTech,294.70,Ativo
+57,Teclado Sigma Plus-07,Acessórios,Teclado,Sigma,71.11,Ativo
+58,Teclado Orion Pro-08,Acessórios,Teclado,Orion,71.16,Ativo
+59,Teclado NovaData Max-09,Acessórios,Teclado,NovaData,576.05,Ativo
+60,Teclado AlphaTech Max-10,Acessórios,Teclado,AlphaTech,581.30,Ativo
+61,Mouse Quantum Max-01,Acessórios,Mouse,Quantum,49.40,Ativo
+62,Mouse AlphaTech Office-02,Acessórios,Mouse,AlphaTech,473.65,Ativo
+63,Mouse Integra Max-03,Acessórios,Mouse,Integra,295.16,Ativo
+64,Mouse Sigma Office-04,Acessórios,Mouse,Sigma,275.88,Ativo
+65,Mouse EvoTech Office-05,Acessórios,Mouse,EvoTech,292.87,Ativo
+66,Mouse Vision Business-06,Acessórios,Mouse,Vision,374.22,Ativo
+67,Mouse Sigma Pro-07,Acessórios,Mouse,Sigma,89.95,Ativo
+68,Mouse Quantum Smart-08,Acessórios,Mouse,Quantum,208.38,Ativo
+69,Mouse Sigma Office-09,Acessórios,Mouse,Sigma,259.44,Ativo
+70,Mouse NovaData Plus-10,Acessórios,Mouse,NovaData,79.40,Ativo
+71,Headset NovaData Office-01,Acessórios,Headset,NovaData,530.40,Ativo
+72,Headset Integra Smart-02,Acessórios,Headset,Integra,724.72,Ativo
+73,Headset PrimeWare Business-03,Acessórios,Headset,PrimeWare,331.61,Ativo
+74,Headset AlphaTech Plus-04,Acessórios,Headset,AlphaTech,388.67,Ativo
+75,Headset NovaData Business-05,Acessórios,Headset,NovaData,767.29,Ativo
+76,Headset AlphaTech Plus-06,Acessórios,Headset,AlphaTech,164.24,Ativo
+77,Headset Integra Office-07,Acessórios,Headset,Integra,676.22,Ativo
+78,Headset PrimeWare Office-08,Acessórios,Headset,PrimeWare,609.01,Inativo
+79,Headset PrimeWare Office-09,Acessórios,Headset,PrimeWare,385.56,Ativo
+80,Headset NovaData Office-10,Acessórios,Headset,NovaData,100.77,Ativo
+81,Webcam Quantum Plus-01,Acessórios,Webcam,Quantum,608.27,Ativo
+82,Webcam Orion Pro-02,Acessórios,Webcam,Orion,147.16,Ativo
+83,Webcam Vertex Smart-03,Acessórios,Webcam,Vertex,317.97,Ativo
+84,Webcam NovaData Plus-04,Acessórios,Webcam,NovaData,1092.81,Ativo
+85,Webcam NovaData Plus-05,Acessórios,Webcam,NovaData,981.26,Ativo
+86,Webcam Quantum Pro-06,Acessórios,Webcam,Quantum,550.05,Ativo
+87,Webcam Vision Office-07,Acessórios,Webcam,Vision,126.99,Ativo
+88,Webcam DataPro Pro-08,Acessórios,Webcam,DataPro,227.25,Inativo
+89,Webcam AlphaTech Plus-09,Acessórios,Webcam,AlphaTech,1038.01,Ativo
+90,Webcam Orion Office-10,Acessórios,Webcam,Orion,312.25,Ativo
+91,Dock Station DataPro Plus-01,Acessórios,Dock Station,DataPro,921.13,Ativo
+92,Dock Station PrimeWare Plus-02,Acessórios,Dock Station,PrimeWare,399.28,Ativo
+93,Dock Station Integra Plus-03,Acessórios,Dock Station,Integra,1753.04,Ativo
+94,Dock Station DataPro Office-04,Acessórios,Dock Station,DataPro,768.51,Ativo
+95,Dock Station Sigma Max-05,Acessórios,Dock Station,Sigma,1057.18,Ativo
+96,Dock Station Vertex Smart-06,Acessórios,Dock Station,Vertex,1410.62,Ativo
+97,Dock Station Nexus Office-07,Acessórios,Dock Station,Nexus,472.51,Ativo
+98,Dock Station Sigma Max-08,Acessórios,Dock Station,Sigma,1427.76,Ativo
+99,Dock Station PrimeWare Smart-09,Acessórios,Dock Station,PrimeWare,1375.24,Ativo
+100,Dock Station PrimeWare Smart-10,Acessórios,Dock Station,PrimeWare,809.92,Ativo
+101,Cadeira Ergonômica Vision Business-01,Móveis,Cadeira Ergonômica,Vision,778.58,Inativo
+102,Cadeira Ergonômica Vertex Business-02,Móveis,Cadeira Ergonômica,Vertex,1708.97,Ativo
+103,Cadeira Ergonômica Vision Smart-03,Móveis,Cadeira Ergonômica,Vision,1092.52,Ativo
+104,Cadeira Ergonômica Vertex Business-04,Móveis,Cadeira Ergonômica,Vertex,2511.19,Ativo
+105,Cadeira Ergonômica NovaData Smart-05,Móveis,Cadeira Ergonômica,NovaData,3047.20,Ativo
+106,Cadeira Ergonômica Nexus Max-06,Móveis,Cadeira Ergonômica,Nexus,980.50,Ativo
+107,Cadeira Ergonômica AlphaTech Pro-07,Móveis,Cadeira Ergonômica,AlphaTech,2460.52,Ativo
+108,Cadeira Ergonômica AlphaTech Plus-08,Móveis,Cadeira Ergonômica,AlphaTech,2657.15,Ativo
+109,Cadeira Ergonômica Integra Smart-09,Móveis,Cadeira Ergonômica,Integra,2285.67,Ativo
+110,Cadeira Ergonômica Sigma Plus-10,Móveis,Cadeira Ergonômica,Sigma,2211.33,Ativo
+111,Mesa de Escritório AlphaTech Office-01,Móveis,Mesa de Escritório,AlphaTech,1520.10,Ativo
+112,Mesa de Escritório Orion Plus-02,Móveis,Mesa de Escritório,Orion,849.28,Ativo
+113,Mesa de Escritório Sigma Max-03,Móveis,Mesa de Escritório,Sigma,563.88,Ativo
+114,Mesa de Escritório EvoTech Max-04,Móveis,Mesa de Escritório,EvoTech,2323.30,Ativo
+115,Mesa de Escritório Quantum Max-05,Móveis,Mesa de Escritório,Quantum,621.30,Ativo
+116,Mesa de Escritório NovaData Office-06,Móveis,Mesa de Escritório,NovaData,2322.96,Ativo
+117,Mesa de Escritório NovaData Pro-07,Móveis,Mesa de Escritório,NovaData,1154.83,Ativo
+118,Mesa de Escritório Integra Plus-08,Móveis,Mesa de Escritório,Integra,1543.99,Ativo
+119,Mesa de Escritório Vision Office-09,Móveis,Mesa de Escritório,Vision,2749.67,Ativo
+120,Mesa de Escritório Integra Smart-10,Móveis,Mesa de Escritório,Integra,2133.62,Ativo
+121,Armário EvoTech Pro-01,Móveis,Armário,EvoTech,889.82,Ativo
+122,Armário PrimeWare Office-02,Móveis,Armário,PrimeWare,1744.35,Ativo
+123,Armário NovaData Pro-03,Móveis,Armário,NovaData,1604.05,Ativo
+124,Armário Vision Smart-04,Móveis,Armário,Vision,1136.15,Ativo
+125,Armário NovaData Pro-05,Móveis,Armário,NovaData,754.64,Ativo
+126,Armário Sigma Max-06,Móveis,Armário,Sigma,2115.20,Inativo
+127,Armário Vertex Business-07,Móveis,Armário,Vertex,2214.87,Ativo
+128,Armário Vision Max-08,Móveis,Armário,Vision,487.34,Ativo
+129,Armário Vertex Max-09,Móveis,Armário,Vertex,1350.60,Ativo
+130,Armário DataPro Business-10,Móveis,Armário,DataPro,1877.75,Ativo
+131,Gaveteiro AlphaTech Business-01,Móveis,Gaveteiro,AlphaTech,349.50,Ativo
+132,Gaveteiro Orion Plus-02,Móveis,Gaveteiro,Orion,1260.77,Ativo
+133,Gaveteiro Quantum Plus-03,Móveis,Gaveteiro,Quantum,925.39,Ativo
+134,Gaveteiro Vision Plus-04,Móveis,Gaveteiro,Vision,661.78,Ativo
+135,Gaveteiro Vertex Max-05,Móveis,Gaveteiro,Vertex,1252.97,Ativo
+136,Gaveteiro Vision Office-06,Móveis,Gaveteiro,Vision,1095.93,Ativo
+137,Gaveteiro Sigma Pro-07,Móveis,Gaveteiro,Sigma,1097.34,Ativo
+138,Gaveteiro AlphaTech Max-08,Móveis,Gaveteiro,AlphaTech,877.84,Ativo
+139,Gaveteiro EvoTech Business-09,Móveis,Gaveteiro,EvoTech,649.75,Ativo
+140,Gaveteiro Quantum Smart-10,Móveis,Gaveteiro,Quantum,815.14,Ativo
+141,Estante Quantum Business-01,Móveis,Estante,Quantum,2182.62,Ativo
+142,Estante Integra Business-02,Móveis,Estante,Integra,1907.30,Ativo
+143,Estante Vision Max-03,Móveis,Estante,Vision,2177.55,Ativo
+144,Estante Vertex Plus-04,Móveis,Estante,Vertex,1064.65,Ativo
+145,Estante Sigma Max-05,Móveis,Estante,Sigma,2059.81,Inativo
+146,Estante EvoTech Business-06,Móveis,Estante,EvoTech,1822.89,Ativo
+147,Estante EvoTech Smart-07,Móveis,Estante,EvoTech,2152.30,Ativo
+148,Estante DataPro Smart-08,Móveis,Estante,DataPro,1374.62,Inativo
+149,Estante AlphaTech Max-09,Móveis,Estante,AlphaTech,1342.27,Ativo
+150,Estante EvoTech Max-10,Móveis,Estante,EvoTech,2111.58,Ativo
+151,Switch DataPro Smart-01,Rede e Infraestrutura,Switch,DataPro,6119.49,Ativo
+152,Switch Orion Max-02,Rede e Infraestrutura,Switch,Orion,2044.98,Ativo
+153,Switch DataPro Business-03,Rede e Infraestrutura,Switch,DataPro,688.05,Ativo
+154,Switch Sigma Office-04,Rede e Infraestrutura,Switch,Sigma,487.78,Ativo
+155,Switch DataPro Max-05,Rede e Infraestrutura,Switch,DataPro,6395.63,Ativo
+156,Switch NovaData Office-06,Rede e Infraestrutura,Switch,NovaData,3107.64,Ativo
+157,Switch PrimeWare Business-07,Rede e Infraestrutura,Switch,PrimeWare,5603.12,Ativo
+158,Switch Vertex Max-08,Rede e Infraestrutura,Switch,Vertex,2584.48,Ativo
+159,Switch PrimeWare Pro-09,Rede e Infraestrutura,Switch,PrimeWare,6294.71,Ativo
+160,Switch Vision Max-10,Rede e Infraestrutura,Switch,Vision,5009.09,Ativo
+161,Roteador AlphaTech Max-01,Rede e Infraestrutura,Roteador,AlphaTech,792.99,Ativo
+162,Roteador Vision Pro-02,Rede e Infraestrutura,Roteador,Vision,3094.40,Ativo
+163,Roteador Quantum Plus-03,Rede e Infraestrutura,Roteador,Quantum,1297.20,Ativo
+164,Roteador EvoTech Pro-04,Rede e Infraestrutura,Roteador,EvoTech,1479.74,Inativo
+165,Roteador Vision Smart-05,Rede e Infraestrutura,Roteador,Vision,305.78,Ativo
+166,Roteador Vision Max-06,Rede e Infraestrutura,Roteador,Vision,1242.97,Ativo
+167,Roteador Orion Plus-07,Rede e Infraestrutura,Roteador,Orion,1048.49,Ativo
+168,Roteador Integra Office-08,Rede e Infraestrutura,Roteador,Integra,2346.16,Ativo
+169,Roteador Vision Pro-09,Rede e Infraestrutura,Roteador,Vision,338.15,Ativo
+170,Roteador Nexus Smart-10,Rede e Infraestrutura,Roteador,Nexus,2823.83,Ativo
+171,Access Point Nexus Plus-01,Rede e Infraestrutura,Access Point,Nexus,340.06,Ativo
+172,Access Point Vertex Business-02,Rede e Infraestrutura,Access Point,Vertex,480.40,Ativo
+173,Access Point Orion Office-03,Rede e Infraestrutura,Access Point,Orion,2046.24,Ativo
+174,Access Point Integra Pro-04,Rede e Infraestrutura,Access Point,Integra,741.45,Ativo
+175,Access Point AlphaTech Business-05,Rede e Infraestrutura,Access Point,AlphaTech,774.23,Ativo
+176,Access Point EvoTech Max-06,Rede e Infraestrutura,Access Point,EvoTech,881.03,Ativo
+177,Access Point PrimeWare Smart-07,Rede e Infraestrutura,Access Point,PrimeWare,1063.78,Ativo
+178,Access Point Integra Office-08,Rede e Infraestrutura,Access Point,Integra,1879.93,Ativo
+179,Access Point NovaData Office-09,Rede e Infraestrutura,Access Point,NovaData,650.37,Inativo
+180,Access Point Quantum Office-10,Rede e Infraestrutura,Access Point,Quantum,1173.43,Ativo
+181,Nobreak Vision Office-01,Rede e Infraestrutura,Nobreak,Vision,3785.36,Ativo
+182,Nobreak PrimeWare Office-02,Rede e Infraestrutura,Nobreak,PrimeWare,2059.06,Ativo
+183,Nobreak Vertex Max-03,Rede e Infraestrutura,Nobreak,Vertex,3562.78,Ativo
+184,Nobreak AlphaTech Pro-04,Rede e Infraestrutura,Nobreak,AlphaTech,2584.95,Ativo
+185,Nobreak DataPro Smart-05,Rede e Infraestrutura,Nobreak,DataPro,3916.81,Ativo
+186,Nobreak EvoTech Smart-06,Rede e Infraestrutura,Nobreak,EvoTech,1531.31,Ativo
+187,Nobreak Orion Plus-07,Rede e Infraestrutura,Nobreak,Orion,4330.07,Ativo
+188,Nobreak Vertex Plus-08,Rede e Infraestrutura,Nobreak,Vertex,3272.51,Ativo
+189,Nobreak Orion Max-09,Rede e Infraestrutura,Nobreak,Orion,2262.06,Ativo
+190,Nobreak Nexus Business-10,Rede e Infraestrutura,Nobreak,Nexus,1742.68,Ativo
+191,Servidor Vertex Plus-01,Rede e Infraestrutura,Servidor,Vertex,22563.49,Ativo
+192,Servidor NovaData Office-02,Rede e Infraestrutura,Servidor,NovaData,18614.29,Ativo
+193,Servidor Vision Plus-03,Rede e Infraestrutura,Servidor,Vision,8715.61,Ativo
+194,Servidor Orion Plus-04,Rede e Infraestrutura,Servidor,Orion,4894.70,Ativo
+195,Servidor Quantum Office-05,Rede e Infraestrutura,Servidor,Quantum,5255.71,Ativo
+196,Servidor EvoTech Max-06,Rede e Infraestrutura,Servidor,EvoTech,6717.45,Ativo
+197,Servidor Vertex Pro-07,Rede e Infraestrutura,Servidor,Vertex,20690.35,Ativo
+198,Servidor PrimeWare Smart-08,Rede e Infraestrutura,Servidor,PrimeWare,6773.57,Ativo
+199,Servidor Integra Plus-09,Rede e Infraestrutura,Servidor,Integra,10699.69,Ativo
+200,Servidor Vertex Pro-10,Rede e Infraestrutura,Servidor,Vertex,17619.30,Ativo
+201,SSD Orion Max-01,Armazenamento,SSD,Orion,400.02,Ativo
+202,SSD Vertex Business-02,Armazenamento,SSD,Vertex,1102.27,Ativo
+203,SSD DataPro Smart-03,Armazenamento,SSD,DataPro,1609.26,Ativo
+204,SSD AlphaTech Pro-04,Armazenamento,SSD,AlphaTech,461.57,Ativo
+205,SSD Orion Office-05,Armazenamento,SSD,Orion,836.24,Ativo
+206,SSD Quantum Max-06,Armazenamento,SSD,Quantum,1173.53,Ativo
+207,SSD Integra Smart-07,Armazenamento,SSD,Integra,1320.53,Ativo
+208,SSD PrimeWare Smart-08,Armazenamento,SSD,PrimeWare,388.28,Ativo
+209,SSD EvoTech Max-09,Armazenamento,SSD,EvoTech,1623.06,Ativo
+210,SSD Vision Pro-10,Armazenamento,SSD,Vision,1528.87,Ativo
+211,HD Externo PrimeWare Pro-01,Armazenamento,HD Externo,PrimeWare,1482.33,Ativo
+212,HD Externo Integra Business-02,Armazenamento,HD Externo,Integra,277.52,Ativo
+213,HD Externo AlphaTech Office-03,Armazenamento,HD Externo,AlphaTech,827.29,Ativo
+214,HD Externo Orion Business-04,Armazenamento,HD Externo,Orion,1013.10,Ativo
+215,HD Externo AlphaTech Office-05,Armazenamento,HD Externo,AlphaTech,1598.11,Ativo
+216,HD Externo Sigma Business-06,Armazenamento,HD Externo,Sigma,1121.65,Ativo
+217,HD Externo Vision Pro-07,Armazenamento,HD Externo,Vision,1428.99,Ativo
+218,HD Externo Vision Pro-08,Armazenamento,HD Externo,Vision,775.40,Ativo
+219,HD Externo PrimeWare Pro-09,Armazenamento,HD Externo,PrimeWare,1855.21,Ativo
+220,HD Externo PrimeWare Office-10,Armazenamento,HD Externo,PrimeWare,960.67,Ativo
+221,Pen Drive Integra Pro-01,Armazenamento,Pen Drive,Integra,94.92,Ativo
+222,Pen Drive Vertex Pro-02,Armazenamento,Pen Drive,Vertex,81.32,Ativo
+223,Pen Drive DataPro Max-03,Armazenamento,Pen Drive,DataPro,158.21,Ativo
+224,Pen Drive PrimeWare Smart-04,Armazenamento,Pen Drive,PrimeWare,136.24,Ativo
+225,Pen Drive Integra Max-05,Armazenamento,Pen Drive,Integra,179.74,Ativo
+226,Pen Drive Orion Office-06,Armazenamento,Pen Drive,Orion,171.81,Ativo
+227,Pen Drive DataPro Plus-07,Armazenamento,Pen Drive,DataPro,83.51,Ativo
+228,Pen Drive Vertex Max-08,Armazenamento,Pen Drive,Vertex,105.33,Ativo
+229,Pen Drive Orion Business-09,Armazenamento,Pen Drive,Orion,319.90,Ativo
+230,Pen Drive Quantum Plus-10,Armazenamento,Pen Drive,Quantum,299.82,Ativo
+231,NAS Quantum Office-01,Armazenamento,NAS,Quantum,7559.95,Ativo
+232,NAS Vertex Pro-02,Armazenamento,NAS,Vertex,1956.17,Ativo
+233,NAS Quantum Max-03,Armazenamento,NAS,Quantum,2663.36,Ativo
+234,NAS Integra Smart-04,Armazenamento,NAS,Integra,6787.86,Ativo
+235,NAS EvoTech Plus-05,Armazenamento,NAS,EvoTech,3687.73,Ativo
+236,NAS Orion Smart-06,Armazenamento,NAS,Orion,5829.37,Ativo
+237,NAS EvoTech Max-07,Armazenamento,NAS,EvoTech,7372.87,Ativo
+238,NAS DataPro Pro-08,Armazenamento,NAS,DataPro,6409.59,Ativo
+239,NAS AlphaTech Plus-09,Armazenamento,NAS,AlphaTech,6229.10,Ativo
+240,NAS NovaData Pro-10,Armazenamento,NAS,NovaData,2226.88,Ativo
+241,Cartão de Memória Quantum Plus-01,Armazenamento,Cartão de Memória,Quantum,165.31,Ativo
+242,Cartão de Memória EvoTech Business-02,Armazenamento,Cartão de Memória,EvoTech,147.68,Ativo
+243,Cartão de Memória EvoTech Pro-03,Armazenamento,Cartão de Memória,EvoTech,416.09,Ativo
+244,Cartão de Memória Nexus Max-04,Armazenamento,Cartão de Memória,Nexus,447.15,Ativo
+245,Cartão de Memória Vision Office-05,Armazenamento,Cartão de Memória,Vision,266.74,Ativo
+246,Cartão de Memória NovaData Max-06,Armazenamento,Cartão de Memória,NovaData,59.17,Ativo
+247,Cartão de Memória DataPro Business-07,Armazenamento,Cartão de Memória,DataPro,44.59,Ativo
+248,Cartão de Memória Vertex Office-08,Armazenamento,Cartão de Memória,Vertex,425.37,Ativo
+249,Cartão de Memória AlphaTech Max-09,Armazenamento,Cartão de Memória,AlphaTech,152.81,Ativo
+250,Cartão de Memória PrimeWare Max-10,Armazenamento,Cartão de Memória,PrimeWare,61.92,Ativo
+251,Smartphone NovaData Smart-01,Telefonia,Smartphone,NovaData,5291.39,Ativo
+252,Smartphone Integra Pro-02,Telefonia,Smartphone,Integra,6056.43,Ativo
+253,Smartphone AlphaTech Smart-03,Telefonia,Smartphone,AlphaTech,3679.71,Ativo
+254,Smartphone Orion Max-04,Telefonia,Smartphone,Orion,4958.70,Ativo
+255,Smartphone AlphaTech Max-05,Telefonia,Smartphone,AlphaTech,4023.72,Ativo
+256,Smartphone Vision Max-06,Telefonia,Smartphone,Vision,5157.89,Ativo
+257,Smartphone Integra Pro-07,Telefonia,Smartphone,Integra,4006.57,Ativo
+258,Smartphone PrimeWare Max-08,Telefonia,Smartphone,PrimeWare,5851.96,Ativo
+259,Smartphone EvoTech Pro-09,Telefonia,Smartphone,EvoTech,6873.40,Ativo
+260,Smartphone Orion Max-10,Telefonia,Smartphone,Orion,6234.66,Ativo
+261,Telefone IP Orion Max-01,Telefonia,Telefone IP,Orion,939.18,Ativo
+262,Telefone IP Integra Business-02,Telefonia,Telefone IP,Integra,736.06,Ativo
+263,Telefone IP PrimeWare Pro-03,Telefonia,Telefone IP,PrimeWare,347.42,Ativo
+264,Telefone IP EvoTech Plus-04,Telefonia,Telefone IP,EvoTech,444.73,Ativo
+265,Telefone IP Quantum Smart-05,Telefonia,Telefone IP,Quantum,1615.76,Ativo
+266,Telefone IP EvoTech Smart-06,Telefonia,Telefone IP,EvoTech,1639.21,Ativo
+267,Telefone IP Vertex Plus-07,Telefonia,Telefone IP,Vertex,1313.64,Ativo
+268,Telefone IP AlphaTech Office-08,Telefonia,Telefone IP,AlphaTech,944.47,Ativo
+269,Telefone IP Quantum Office-09,Telefonia,Telefone IP,Quantum,553.77,Inativo
+270,Telefone IP Integra Office-10,Telefonia,Telefone IP,Integra,503.95,Inativo
+271,Headset Telefônico Vertex Pro-01,Telefonia,Headset Telefônico,Vertex,824.48,Ativo
+272,Headset Telefônico Nexus Smart-02,Telefonia,Headset Telefônico,Nexus,712.35,Ativo
+273,Headset Telefônico Vision Pro-03,Telefonia,Headset Telefônico,Vision,427.85,Inativo
+274,Headset Telefônico NovaData Plus-04,Telefonia,Headset Telefônico,NovaData,569.59,Inativo
+275,Headset Telefônico Integra Pro-05,Telefonia,Headset Telefônico,Integra,749.14,Ativo
+276,Headset Telefônico Orion Plus-06,Telefonia,Headset Telefônico,Orion,644.83,Ativo
+277,Headset Telefônico EvoTech Business-07,Telefonia,Headset Telefônico,EvoTech,909.06,Ativo
+278,Headset Telefônico Quantum Business-08,Telefonia,Headset Telefônico,Quantum,365.78,Ativo
+279,Headset Telefônico Vertex Max-09,Telefonia,Headset Telefônico,Vertex,577.00,Ativo
+280,Headset Telefônico Integra Smart-10,Telefonia,Headset Telefônico,Integra,309.59,Ativo
+281,Central Telefônica PrimeWare Pro-01,Telefonia,Central Telefônica,PrimeWare,8387.60,Ativo
+282,Central Telefônica Orion Plus-02,Telefonia,Central Telefônica,Orion,3650.47,Ativo
+283,Central Telefônica Quantum Plus-03,Telefonia,Central Telefônica,Quantum,8688.93,Ativo
+284,Central Telefônica Orion Plus-04,Telefonia,Central Telefônica,Orion,6761.54,Ativo
+285,Central Telefônica PrimeWare Plus-05,Telefonia,Central Telefônica,PrimeWare,4452.03,Ativo
+286,Central Telefônica PrimeWare Pro-06,Telefonia,Central Telefônica,PrimeWare,5405.15,Ativo
+287,Central Telefônica PrimeWare Plus-07,Telefonia,Central Telefônica,PrimeWare,6508.52,Ativo
+288,Central Telefônica Integra Business-08,Telefonia,Central Telefônica,Integra,5916.24,Ativo
+289,Central Telefônica PrimeWare Business-09,Telefonia,Central Telefônica,PrimeWare,5467.35,Ativo
+290,Central Telefônica AlphaTech Pro-10,Telefonia,Central Telefônica,AlphaTech,3905.95,Ativo
+291,Carregador Quantum Business-01,Telefonia,Carregador,Quantum,184.60,Ativo
+292,Carregador Quantum Office-02,Telefonia,Carregador,Quantum,115.69,Ativo
+293,Carregador Vertex Pro-03,Telefonia,Carregador,Vertex,58.12,Ativo
+294,Carregador Vision Business-04,Telefonia,Carregador,Vision,209.58,Ativo
+295,Carregador Vision Plus-05,Telefonia,Carregador,Vision,347.43,Inativo
+296,Carregador Vision Plus-06,Telefonia,Carregador,Vision,66.54,Ativo
+297,Carregador Nexus Business-07,Telefonia,Carregador,Nexus,285.66,Ativo
+298,Carregador Quantum Max-08,Telefonia,Carregador,Quantum,358.09,Ativo
+299,Carregador PrimeWare Max-09,Telefonia,Carregador,PrimeWare,267.75,Ativo
+300,Carregador EvoTech Business-10,Telefonia,Carregador,EvoTech,313.09,Ativo
